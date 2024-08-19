@@ -2,7 +2,7 @@
 * Graduating 2028!! <i>Hopefully...</i>
 * 80 WPM sweat
 * Knows file explorer
-  <IMG SRC="animation1. gif">
+<IMG SRC="picmix.com_11750929.gif">
 
 
 ## Term 1
