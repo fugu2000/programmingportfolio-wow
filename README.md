@@ -2,10 +2,11 @@
 * Graduating 2028!! <i>Hopefully...</i>
 * 80 WPM sweat
 * Knows file explorer
+* *Check me out basically anywhere! It's my user on a ton of platforms.*
+* **Fugu2000**
+* ~~Secretly addicted to purple spray paint~~
+
 <IMG SRC="images/picmix.com_11750929.gif">
-*Check me out basically anywhere! It's my user on a ton of platforms.*
-**Fugu2000**
-~~Secretly addicted to purple spray paint~~
 
 ## Term 1
 
