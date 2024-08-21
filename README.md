@@ -3,7 +3,8 @@
 * 80 WPM sweat
 * Knows file explorer
 <IMG SRC="images/picmix.com_11750929.gif">
-
+** Check me out basically anywhere! It's my user on a ton of platforms. **
+  Fugu2000
 
 ## Term 1
 
