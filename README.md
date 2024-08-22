@@ -6,7 +6,7 @@
 * **Fugu2000**
 * ~~Secretly addicted to purple spray paint~~
 
-<IMG SRC="images/picmix.com_11750929.gif">
+<p style="background-image: url('images/picmix.com_11750929.gif');
 
 ## Term 1
 
