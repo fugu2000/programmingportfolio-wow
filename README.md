@@ -20,8 +20,8 @@
 ## Term 1
 
 ## Etch-A-Sketch
-
-
+![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/GAHAHHAHAHAHAHAH.png)
+[Source Code](https://github.com/fugu2000/programmingportfolio-wow/tree/fugu2000-patch-1/src/term1/Etch_A_Sketch)
 
 
 
