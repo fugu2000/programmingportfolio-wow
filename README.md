@@ -6,8 +6,6 @@
 * **Fugu2000**
 
 ~~Addicted to purple spray paint~~
-
-<p style="background-image: url('images/picmix.com_11750929.gif');">
   
 
 
