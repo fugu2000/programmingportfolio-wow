@@ -21,6 +21,8 @@
 
 ## Term 1
 
+## Etch-A-Sketch
+
 
 
 
@@ -28,6 +30,7 @@
 
 ## Term 2
 
+## Calc(slang for calculator)
 
 
 
