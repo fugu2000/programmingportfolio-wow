@@ -29,6 +29,6 @@
 ## Term 2
 
 ### Calc(slang for calculator)
-
+![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/CALC.png)
 
 [Source Code](https://github.com/fugu2000/programmingportfolio-wow/edit/fugu2000-patch-1/src/term2/Calculator/Calculator.pde)
