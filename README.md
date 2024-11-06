@@ -12,7 +12,7 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4t6EMcoNSYiU61D8kCJQVI?utm_source=generator" width="50%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-![Running App](
+![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/picmix.com_11750929.gif?raw=true)
 
 
 
