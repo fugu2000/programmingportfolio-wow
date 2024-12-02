@@ -36,6 +36,6 @@
 
 ### SpaceGam
 
-Description: Simple Auto Scroller Shooter
+Description: Simple Auto Scroller Shmup
 
 ![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/Space.png?raw=true)
