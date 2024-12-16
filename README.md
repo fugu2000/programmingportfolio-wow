@@ -20,6 +20,9 @@
 ## Term 1
 
 ### Etch-A-Sketch
+
+Sketched an Etch
+
 ![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/GAHAHHAHAHAHAHAH.png?raw=true)
 
 [Source Code](https://github.com/fugu2000/programmingportfolio-wow/tree/fugu2000-patch-1/src/term1/Etch_A_Sketch)
@@ -30,13 +33,15 @@
 ## Term 2
 
 ### Calc(slang for calculator)
+
+Really Basic Calculator
 ![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/CALC.png?raw=true)
 
 [Source Code](https://github.com/fugu2000/programmingportfolio-wow/edit/fugu2000-patch-1/src/term2/Calculator/Calculator.pde)
 
 ### SpaceGam
 
-Description: Simple Auto Scroller Shmup
+Simple Auto Scroller Shmup
 
 ![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/Space.png?raw=true)
 
