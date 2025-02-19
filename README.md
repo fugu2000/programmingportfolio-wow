@@ -46,3 +46,12 @@ Simple Auto Scroller Shmup
 ![Running App](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/images/Space.png?raw=true)
 
 [Source Code](https://github.com/fugu2000/programmingportfolio-wow/blob/fugu2000-patch-1/src/term2/SpaceGam%207.zip)
+
+
+
+
+## Term 3
+
+### Shape Tester
+
+Simple calculations for certain 3D shapes
