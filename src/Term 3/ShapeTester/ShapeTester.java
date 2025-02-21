@@ -18,6 +18,7 @@ public class ShapeTester
         boolean check1 = true;
         while(run)
         {
+            check1 = true;
             System.out.println("Welcome to shape maker! Let's find the volume and surface area for a few shapes...");
             System.out.println("To build a box, press 1. To build a sphere, press 2.");
             System.out.println("To build a pyramid, press 3. To build a cylinder, press 4.");
