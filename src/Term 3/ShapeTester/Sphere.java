@@ -9,7 +9,7 @@ public class Sphere
     
     public double getVolume()
     {
-        return (4/3) * Math.PI * Math.pow(radius, 3);
+        return 1.333333333 * Math.PI * Math.pow(radius, 3);
     }
     
     public double getSurfaceArea()
